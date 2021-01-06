@@ -1,0 +1,9 @@
+.bgimgouvrier{
+    background-image: url("../images/clone.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    height: 48em;
+    
+}
